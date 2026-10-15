@@ -1,0 +1,20 @@
+{
+  "name": "warsh-quran-subscription-app",
+  "version": "1.0.0",
+  "description": "Warsh Quran Application with Premium Subscription Support",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.292.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}
